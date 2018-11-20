@@ -1,4 +1,5 @@
 # best-repo-ever
 ADDED CONTENT
-team change lines 3
-and 4
+CONFLICTING CHANGES ON LINES 3
+AND ALSO LINE 4
+
